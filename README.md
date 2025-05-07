@@ -1,0 +1,1 @@
+Ce projet fournit un composant React permettant d'afficher et de gérer dynamiquement un tableau d’employés. Il est packagé avec Rollup pour produire un bundle optimisé, prêt à être intégré dans vos applications.
